@@ -1,0 +1,6 @@
+# mount point	fstype		device
+/system			ext4		/dev/block/mmcblk0p20
+/data			ext4		/dev/block/mmcblk0p22
+/cache			ext4		/dev/block/mmcblk0p19
+/efs			ext4		/dev/block/mmcblk0p7
+/sdcard			vfat		/dev/block/platform/sprd-sdhci.0/mmcblk1p1
