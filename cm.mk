@@ -11,7 +11,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 $(call inherit-product, device/samsung/kanas3gxx/device_kanas3gxx.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := kanas
+PRODUCT_DEVICE := kanas3gxx
 PRODUCT_NAME := cm_kanas3gxx
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G355H
